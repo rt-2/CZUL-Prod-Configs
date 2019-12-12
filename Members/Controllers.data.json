@@ -1,0 +1,248 @@
+{ "CONTROLLERS_TRAINING_STATE": {
+	"700000":{}
+	
+	
+	,"1095625"
+	:{ "_comment": "Jean-Francois Desrosiers"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1138610"
+	:{ "_comment": "Rob Nabieszko"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1211724"
+	:{ "_comment": "Enriko Michaud"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1300960"
+	:{ "_comment": "Pier-Luc Plamondon"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"811484"
+	:{ "_comment": "Jason Vézina"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"814252"
+	:{ "_comment": "Sylvain Tousignant"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"-1196849"
+	:{ "_comment": "William Bassman Bremshey"
+		,"instructor": "1095625"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"965064"
+	:{ "_comment": "Yanick Coulombe"
+		,"instructor": "1138610"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1314808"
+	:{ "_comment": "Alexandre Dufresne"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"971401"
+	:{ "_comment": "William Leblond"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"-1196832"
+	:{ "_comment": "Nicolas Moreau"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1281209"
+	:{ "_comment": "Jérôme Nourault"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"-999499"
+	:{ "_comment": "Yanis Sauve"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"-949776"
+	:{ "_comment": "Michael Villeneuve-Normand"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1097772"
+	:{ "_comment": "Simon Cormier"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1214152"
+	:{ "_comment": "Luc Dube"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1017436"
+	:{ "_comment": "Frédérick Durand"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1369119"
+	:{ "_comment": "Yinan Wang"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1281209"
+	:{ "_comment": "Jérôme Nourault"
+		,"position": "MTL_CTR"
+	}
+	
+	
+	,"1097772"
+	:{ "_comment": "Simon Cormier"
+		,"instructor": "1211724"
+		,"position": "CYUL_APP"
+	}
+	
+	
+	,"-827571"
+	:{ "_comment": "serge dubord"
+		,"instructor": "1300960"
+		,"position": ""
+	}
+	
+	
+	,"888206"
+	:{ "_comment": "Gérald Martin"
+		,"position": "CYUL_APP"
+	}
+	
+	
+	,"1423228"
+	:{ "_comment": "Michel Robichaud"
+		,"instructor": "1300960"
+		,"position": "CYUL_APP"
+	}
+	
+	
+	,"1247873"
+	:{ "_comment": "William Vogt"
+		,"instructor": "1211724"
+		,"position": "CYUL_TWR"
+	}
+	
+	
+	,"-834056"
+	:{ "_comment": "Yves Gagne"
+		,"position": "CYQB_TWR/CYOW_TWR"
+	}
+	
+	
+	,"-855639"
+	:{ "_comment": "Dominique Gautron"
+		,"position": ""
+	}
+	
+	
+	,"-1159586"
+	:{ "_comment": "David Genest"
+		,"position": ""
+	}
+	
+	
+	,"-1053405"
+	:{ "_comment": "Marc-Olivier Malette" 
+		,"instructor": "1211724"
+		,"position": ""
+	}
+	
+	
+	,"-1150037"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-1401457"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-839709"
+	:{ "_comment": ""
+		,"instructor": "1300960"
+		,"position": ""
+	}
+	
+	
+	,"1372205"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"1438518"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-1396776"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-1410413"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-963729"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"1191032"
+	:{ "_comment": ""
+		,"instructor": "1138610"
+		,"position": "CYUL_GND"
+	}
+	
+	
+	,"-1416483"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+	,"-1076864"
+	:{ "_comment": ""
+		,"position": ""
+	}
+	
+	
+} }
